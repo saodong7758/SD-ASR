@@ -1,0 +1,18 @@
+{
+  "source_root": "/Users/Apple/Downloads/Shanghai_Dialect_Conversational_Speech_Corpus",
+  "output_root": "/Users/Apple/Downloads/shanghai-dolphin-asr/data/magicdata-shanghai-prepared",
+  "recordings_found": 10,
+  "segments_written": 4484,
+  "segments_rejected": 62,
+  "duration_hours": 3.9367,
+  "split_counts": {
+    "train": 3741,
+    "dev": 320,
+    "test": 423
+  },
+  "sample_rate": 16000,
+  "min_duration": 0.3,
+  "max_duration": 30.0,
+  "pad_ms": 0.0,
+  "seed": 20260728
+}

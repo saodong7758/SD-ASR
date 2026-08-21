@@ -6,3 +6,24 @@ dist/
 build/
 .eggs/
 *.tar.gz
+
+# Local datasets and generated training artifacts
+data/*.wav
+data/**/*.wav
+output*/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.zip
+*.tar
+*.log
+events.out.tfevents.*
+
+# Nested source checkout / local environments
+FunASR/
+.venv/
+venv/
+__pycache__/
