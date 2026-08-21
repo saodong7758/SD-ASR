@@ -4,7 +4,7 @@
   "recordings_found": 10,
   "segments_written": 4484,
   "segments_rejected": 62,
-  "duration_hours": 3.9367,
+  "duration_hours": 13.94,
   "split_counts": {
     "train": 3741,
     "dev": 320,
